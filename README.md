@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Description
+ This project as made using the MDN Tutorial (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) for studies purposes.
+
 ## Available Scripts
 
 In the project directory, you can run:
